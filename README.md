@@ -28,7 +28,8 @@ rspec --format documentation
 
 ## Integration tests
 
-Integration test use [test-kitchen] with [kitchen-terraform] plugin and [awspec] with [kitchen-verifier-awspec] plugin.
+Integration test use [test-kitchen](https://github.com/test-kitchen/test-kitchen) with [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform)
+plugin and [awspec](https://github.com/k1LoW/awspec) with [kitchen-verifier-awspec](https://github.com/neillturner/kitchen-verifier-awspec) plugin.  
 Test specs are in [./test/integration/default/instance.rb](./test/integration/default/instance.rb)
 
 Run integration tests:
