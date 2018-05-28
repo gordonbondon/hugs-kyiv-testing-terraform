@@ -1,0 +1,5 @@
+terraform.tfsatet.d
+.vscode
+.kitchen
+.terraform
+Gemfile.lock
